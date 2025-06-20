@@ -37,11 +37,11 @@ manhwa-api-server/
 git clone https://github.com/yourusername/manhwa-api-server.git
 cd manhwa-api-server
 
-###2. Install dependencies
+### 2. Install dependencies
 npm install
 
 
-###3. Configure environment variables
+### 3. Configure environment variables
 Create a .env file in the root of the project:
 MONGO_URI=mongodb+srv://<your-username>:<your-password>@manhwa.ye9clkt.mongodb.net/?retryWrites=true&w=majority
 PORT=5000
@@ -54,7 +54,7 @@ The server will run at:
 http://localhost:5000
 
 
-##🔗 API Endpoints
+## 🔗 API Endpoints
 ➕ Create Manhwa
 URL: /api/manhwas
 
@@ -98,7 +98,7 @@ Method: DELETE
 
 
 
-##🧪 How to Test the API
+## 🧪 How to Test the API
 Use Postman or run this from the terminal:
 
 curl -X GET http://localhost:5000/api/manhwas
@@ -109,11 +109,11 @@ The server uses Express and Mongoose
 
 All responses are JSON formatted
 
-###👩‍💻 Author
-##Ankita Raj
+## 👩‍💻 Author
+### Ankita Raj
 B.Tech CSE | 2026 | KIIT
 
-###📂 License
+### 📂 License
 This project is open-source and free to use.
 Let me know when you're ready to push it to GitHub, and I’ll guide you step by step. Or we can also build a frontend later if you like!
 
