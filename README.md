@@ -1,6 +1,6 @@
 # 📚 Manhwa API Server
 
-A RESTful API server built with **Node.js**, **Express.js**, and **MongoDB** to manage a collection of **manhwas** (Korean comics). This API supports full CRUD operations.
+A RESTful API server built with **Node.js**, **Express.js**, and **MongoDB** to manage a collection of **manhwas** (comics). This API supports full CRUD operations.
 
 ---
 
