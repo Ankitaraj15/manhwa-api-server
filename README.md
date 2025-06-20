@@ -102,6 +102,7 @@ Method: DELETE
 Use Postman or run this from the terminal:
 
 curl -X GET http://localhost:5000/api/manhwas
+
 📌 Notes
 Ensure MongoDB Atlas is properly connected
 
@@ -110,7 +111,7 @@ The server uses Express and Mongoose
 All responses are JSON formatted
 
 ## 👩‍💻 Author
-### Ankita Raj
+### Built with ❤️ by Ankita Raj
 B.Tech CSE | 2026 | KIIT
 
 ### 📂 License
