@@ -24,17 +24,16 @@ A RESTful API server built with **Node.js**, **Express.js**, and **MongoDB** to 
 ## 📁 Project Structure
 
 manhwa-api-server/
+
 ├── models/
+
 │ └── Manhwa.js # Mongoose schema/model
+
 ├── server.js # Entry point of the API server
 ├── .env # Environment variables (DB connection string)
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ Setup Instructions
 
